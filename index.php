@@ -18,7 +18,7 @@
                     <h3>Aula 2</h3>
                     <ul>
                         <!-- <li><a href="exercicio.php">Exercício A</a></li> -->
-                        <li><a href="exercicio.php?dir=LayoutExercicios&file=LayoutExercicios">Template inicial</a></li>
+                        <li><a href="exercicio.php?dir=LayoutExercicios&file=LayoutExercicios">TEMPLATE INICIAL</a></li>
                     </ul>
                 </div>
 
@@ -33,6 +33,14 @@
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis">VARIÁVEIS</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=constantes">CONSTANTES</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">ATRIBUIÇÕES</a></li>
+                    </ul>
+                </div>
+
+                <div class="aula roxo">
+                    <h3>Aula 5</h3>
+                    <ul>
+                        <!-- <li><a href="exercicio.php">Exercício A</a></li> -->
+                        <li><a href="exercicio.php?dir=exerciciosAula5&file=exercicios">ATIVIDADE AULA 27/08</a></li>
                     </ul>
                 </div>
             </nav>
