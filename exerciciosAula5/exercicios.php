@@ -91,7 +91,7 @@
         echo '<br>';
         
         function imprimeVendas($quantidade, $produto_a){
-
+            
            $total_vendas = $quantidade * $produto_a;
            return $total_vendas;
         };

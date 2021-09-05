@@ -14,6 +14,7 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="aulas">
+
                 <div class="aula verde">
                     <h3>Aula 2</h3>
                     <ul>
@@ -43,6 +44,17 @@
                         <li><a href="exercicio.php?dir=exerciciosAula5&file=exercicios">ATIVIDADE AULA 27/08</a></li>
                     </ul>
                 </div>
+
+                <div class="aula vermelho">
+                    <h3>Aula 6</h3>
+                    <ul>
+                        <!-- <li><a href="exercicio.php">Exercício A</a></li> -->
+                        <li><a href="exercicio.php?dir=exerciciosAula6\exemplos&file=formulario-method-get">EXEMPLOS</a></li>
+                        <li><a href="exercicio.php?dir=exerciciosAula6&file=exercicios">ATIVIDADE AULA 02/09</a></li>
+                        
+                    </ul>
+                </div>
+
             </nav>
         </div>
     </main>
