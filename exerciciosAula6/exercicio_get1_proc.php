@@ -4,7 +4,7 @@
     $nota_aluno = filter_input(INPUT_GET, "nota_aluno", FILTER_SANITIZE_STRING);
     echo "Nota do aluno: " . $nota_aluno . "<br>";
 
-    if ($nota_aluno >= 8.0 && $nota_aluno <= 10.0){
+    if (($nota_aluno >= 8.0) AND ($nota_aluno <= 10.0)){
         echo "Conceito do aluno: "."A"."<br>";
         echo "<br>";
     }

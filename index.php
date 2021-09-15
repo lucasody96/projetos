@@ -55,6 +55,16 @@
                     </ul>
                 </div>
 
+                <div class="aula laranja">
+                    <h3>Aula 7</h3>
+                    <ul>
+                        <!-- <li><a href="exercicio.php">Exercício A</a></li> -->
+                        <li><a href="exercicio.php?dir=exerciciosAula7\exemplos&file=formulario-method-get">EXEMPLOS</a></li>
+                        <li><a href="exercicio.php?dir=exerciciosAula7&file=exercicios">ATIVIDADE AULA 14/09</a></li>
+                        
+                    </ul>
+                </div> 
+
             </nav>
         </div>
     </main>
