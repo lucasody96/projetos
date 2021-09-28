@@ -69,7 +69,8 @@
                     <ul>
                         <!-- <li><a href="exercicio.php">Exercício A</a></li> -->
                         <li><a href="exercicio.php?dir=exerciciosAula9&file=exercicios">ATIVIDADE AULA 21/09</a></li>
-                        
+                        <li><a href="exercicio.php?dir=exerciciosAula9&file=anp">ANP</a></li>
+                        <li><a href="exercicio.php?dir=exerciciosAula9&file=exercicios0410">EXERCÍCIOS 04/10</a></li>
                     </ul>
                 </div> 
 
