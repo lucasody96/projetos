@@ -20,7 +20,7 @@
       sistema de irrigação no valor de R$ ".$custo_implantacao." por safra"."<br>";
       echo "<br>";
 
-      function custo_safra(&$custo_implantacao, $num_hectares, $gasto_agua, $custo_m3){
+      function custoSafra(&$custo_implantacao, $num_hectares, $gasto_agua, $custo_m3){
 
          $total_m3gasto = $num_hectares * $gasto_agua;
          
@@ -29,7 +29,7 @@
          return "total de gasto de água de uma safra: ".$total_m3gasto." m³"."<br>";
       }
 
-      echo custo_safra($custo_implantacao, $num_hectares, $gasto_agua, $custo_m3);
+      echo custoSafra($custo_implantacao, $num_hectares, $gasto_agua, $custo_m3);
       echo "<br>";
       
       for ($i = 1; $i <= 3; $i++) {
